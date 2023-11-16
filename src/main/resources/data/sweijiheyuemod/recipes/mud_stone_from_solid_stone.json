@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sweijiheyuemod:solid_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sweijiheyuemod:mud_stone"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sweijiheyuemod:item/light_manganese_ore"
+  }
+}

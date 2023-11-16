@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sweijiheyuemod:light_manganese_ore"
+    }
+  },
+  "result": {
+    "item": "sweijiheyuemod:manganese_trihydrate_block"
+  }
+}

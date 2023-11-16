@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sweijiheyuemod:block/manganese_trihydrate_block"
+  }
+}

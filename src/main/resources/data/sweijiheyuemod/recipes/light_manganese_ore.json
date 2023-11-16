@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sweijiheyuemod:manganese_trihydrate_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "sweijiheyuemod:light_manganese_ore"
+  }
+}
