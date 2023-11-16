@@ -28,7 +28,7 @@ import org.slf4j.Logger;
 @Mod(SWeiJiHeYueMod.MODID)
 public class SWeiJiHeYueMod
 {
-    // Define mod id in a common place for everything to reference
+    // Define mod id in a common place for everything to reference111
     public static final String MODID = "sweijiheyuemod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
